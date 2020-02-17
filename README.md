@@ -1,4 +1,3 @@
-# apps
 openwrt自用补充app
 代码来源：
 https://github.com/mchome/luci-app-dogcom
