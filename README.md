@@ -5,3 +5,4 @@ https://github.com/mchome/openwrt-dogcom
 https://github.com/tzxiaozhen88/luci-app-koolproxyR  
 https://github.com/vernesong/OpenClash  
 https://github.com/rufengsuixing/luci-app-adguardhome  
+https://github.com/pymumu/luci-app-smartdns  
